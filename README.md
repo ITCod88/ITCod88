@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=풀스택%20개발자&desc=풀스택%20개발자%20진행중&fontSize=70&descSize=20&descAlign=50&descAlignY=70)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITCod88)](https://github.com/ITCod88/github-readme-stats)
 
@@ -9,27 +9,3 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
 
-
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
----
-**두껍게** <br>
-*기울임* <br>
-~~취소선~~ <br>
-
-* 1번
-* 2번
-- 1번
-- 2번
-
-[네이버](naver.com)
-
-```
-print('Hi world')
-```
-# :smirk: <br>
-## :joy: <br>
-:rage: <br>
