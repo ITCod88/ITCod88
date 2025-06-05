@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=300&section=header&text=풀스택%20개발자&desc=풀스택%20개발자%20진행중&fontSize=70&descSize=20&descAlign=50&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=풀스택%20개발자&desc=풀스택%20개발자%20진행중&fontSize=40&descSize=20&descAlign=50&descAlignY=75)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITCod88)](https://github.com/ITCod88/github-readme-stats)
 
